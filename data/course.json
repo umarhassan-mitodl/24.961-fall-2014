@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "legacy_uid": "eb84b6fc-1b7d-4d4a-445a-74c327472c5e",
+  "instructors": {
+    "content": [
+      "1b36f970-5391-3734-a8cb-7a13ed238d53"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8833857c-7f65-edbf-c3f2-eb1952306ae5",
+    "website": "24-961-introduction-to-phonology-fall-2014"
+  },
+  "course_title": "Introduction to Phonology",
+  "course_description": "This course serves as an introduction to the current research questions in phonological theory. Topics include metrical and prosodic structure, features and their phonetic basis in speech, acquisition and parsing, phonological domains, morphology, and language change and reconstruction. Activities include problem solving, squibs, and data collection.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.961",
+  "course_image_thumbnail": {
+    "content": "ca531ca0-c900-8fc4-ba96-ad9a9444893a",
+    "website": "24-961-introduction-to-phonology-fall-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "7532558e-5a5c-4961-a6c2-f3a0a9772051",
+  "site_short_id": "24.961-fall-2014",
+  "site_url_path": "courses/24-961-introduction-to-phonology-fall-2014",
+  "title": "Course Metadata"
+}
